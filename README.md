@@ -1,4 +1,4 @@
-# Programming-Assignment-2-Lexical-Scopingl
+# Programming-Assignment-2-Lexical-Scoping
 This Repository is for the Programming Assignment 2 (Lexical Scoping)
 
 ### Introduction
